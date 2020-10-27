@@ -1,0 +1,2 @@
+- data exploration and visulization with seaborn and matplotlib
+- hypothesis testing and A/B test using permutation test
