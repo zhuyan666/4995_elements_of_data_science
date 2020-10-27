@@ -8,6 +8,7 @@ Professor: Bryan R. Gibson
 - Model Evaluation, Model Selection
 - Feature Engineering
 - Natural Language Processing
+- Topic Modelling
 - Data processing and delivery using ETL and APIs
 - Time Series Analysis
 - Recommendation Engines
