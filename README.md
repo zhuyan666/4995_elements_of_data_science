@@ -5,7 +5,7 @@ Professor: Bryan R. Gibson
 - Hypothesis Testing, Statistical Modeling
 - Classification, Regression, Clustering
 - Dimention Reduction
-- Model Evaluation, Model Selection
+- Model Evaluation/Selection, Hyperparameter Tuning, Regularization
 - Feature Engineering
 - Natural Language Processing
 - Topic Modelling
